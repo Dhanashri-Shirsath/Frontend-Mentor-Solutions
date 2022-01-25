@@ -40,7 +40,7 @@ This is the first challenge which I have completing successfully.It helped me to
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/) -This helped me to align div in center.
+- [MDN](https://developer.mozilla.org/) -This helped me to align div in center.
 
 ## Author
 - Name - Dhanashri Shirsath
