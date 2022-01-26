@@ -21,10 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![Design preview of the QR code component coding challenge](./images/screenshot_output.PNG)
 
-### Links
-
-- Solution URL: [Repository]()
-- 
+### Links 
 - Live Site URL: [Live website URL](https://dhanashri-shirsath.github.io/Frontend-Mentor-Solutions/QR-code-component-challenge/)
 
 ## My process
